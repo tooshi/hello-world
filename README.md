@@ -1,6 +1,9 @@
 # hello-world
+
+
 Getting started on Github
 
+Trying to get this right.
 
 Starting to try my first change and the commit.
 
